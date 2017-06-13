@@ -1,1 +1,1 @@
-A simple, non functioning, template mock up I created for a fictional job searching website.
+Charlie: (to Dennis and Mac) Oh, get a job? Just get a job? Why don't I strap on my job helmet and squeeze down into a job cannon and fire off into job land, where jobs grow on jobbies?!”
