@@ -1,0 +1,1 @@
+A simple, non functioning, template mock up I created for a fictional job searching website.
